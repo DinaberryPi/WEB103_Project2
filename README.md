@@ -2,7 +2,7 @@
 
 Submitted by: **Yueying Ke**
 
-About this web app: **App description here**
+About this web app: **Wondering why the peaches you bought this time taste different than last time? You might have purchased the wrong variety. Did you know that there is something called a PLU code that identifies each type of fruit? Paying attention to these codes and making a note of them can help you remember which type of fruit to buy next time.**
 
 Time spent: **12** hours
 
@@ -29,11 +29,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
-
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/DinaberryPi/WEB103_Project1/blob/main/btNq1vF%20-%20Imgur.gif?raw=true' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
@@ -44,7 +42,7 @@ GIF created with ...  Add GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+Picocss is confusing.
 
 ## License
 

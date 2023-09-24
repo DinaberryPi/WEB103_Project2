@@ -1,5 +1,5 @@
 import express from 'express'
-
+import "./config/dotenv.js"
 import fruitsRouter from './routes/fruits.js'
 
 

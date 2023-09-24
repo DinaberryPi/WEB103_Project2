@@ -23,7 +23,7 @@ const renderFruits = async () => {
         bottomContainer.appendChild(name)
   
         const PLU_Code = document.createElement('P')
-        PLU_Code.textContent = "PLU Code: " + fruit.PLU_Code
+        PLU_Code.textContent = "PLU Code: " + fruit.plu_code
         bottomContainer.appendChild(PLU_Code)
   
         const link = document.createElement('a')

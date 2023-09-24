@@ -13,7 +13,7 @@ const renderFruit = async () => {
     if (fruit) {
       document.getElementById('image').src = fruit.image
       document.getElementById('name').textContent = fruit.name
-      document.getElementById('PLU_Code').textContent = fruit.PLU_Code
+      document.getElementById('PLU_Code').textContent = fruit.plu_code
       document.getElementById('description').textContent = fruit.description
       document.title = `FruitNoteBook - ${fruit.name}`
     }

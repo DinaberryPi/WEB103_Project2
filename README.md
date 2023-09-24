@@ -39,7 +39,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-"It seems that Railway automatically converts column names to lowercase. I had a problem with the client-side not being able to read the 'PLU_Code' column. I noticed that in the Railway app, it converts 'PLU_Code' to 'plu_code.' After I changed the casing on the client side, it worked.
+It seems that Railway automatically converts column names to lowercase. I had a problem with the client-side not being able to read the 'PLU_Code' column. I noticed that in the Railway app, it converts 'PLU_Code' to 'plu_code.' After I changed the casing on the client side, it worked.
 
 ## License
 

@@ -28,10 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/DinaberryPi/WEB103_Project1/blob/main/btNq1vF%20-%20Imgur.gif?raw=true' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='https://github.com/DinaberryPi/WEB103_Project2/blob/main/zpfrqF8%20-%20Imgur.gif?raw=true' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

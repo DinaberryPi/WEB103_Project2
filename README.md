@@ -28,10 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/DinaberryPi/WEB103_Project1/blob/main/btNq1vF%20-%20Imgur.gif?raw=true' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='https://github.com/DinaberryPi/WEB103_Project2/blob/main/zpfrqF8%20-%20Imgur.gif?raw=true' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -39,7 +39,7 @@ GIF created with ...  GIF tool here
 
 ## Notes
 
-"It seems that Railway automatically converts column names to lowercase. I had a problem with the client-side not being able to read the 'PLU_Code' column. I noticed that in the Railway app, it converts 'PLU_Code' to 'plu_code.' After I changed the casing on the client side, it worked.
+It seems that Railway automatically converts column names to lowercase. I had a problem with the client-side not being able to read the 'PLU_Code' column. I noticed that in the Railway app, it converts 'PLU_Code' to 'plu_code.' After I changed the casing on the client side, it worked.
 
 ## License
 

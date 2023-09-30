@@ -16,8 +16,6 @@ const router = express.Router()
   res.status(200).json(fruitData)
 }) */
 router.get('/', fruitController.getFruits)
-router.get('/:fruitId', (req, res) => {
-  res.status(200).sendFile(path.resolve(__dirname, '../public/fruit.html'))
-})
+router.get('/:fruitId', fruitController.getFruit)
 
 export default router
